@@ -49,5 +49,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ### **Author**
 **Garvit Bansal**  
 *Data Analyst | Power BI Enthusiast*  
-Connect with me on [LinkedIn](www.linkedin.com/in/garvit-bansal0203) 🚀
+Connect with me on [LinkedIn](https://www.linkedin.com/in/garvit-bansal0203)
+ 🚀
 
